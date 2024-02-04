@@ -3,11 +3,6 @@
 </div> 
 ecommerse store backend APIs. 
 
-## 🛣️ Routes
-
-All the routes info and testing is provided in swaggere-docs.
-- `Link` - https://ecomm-store-y5o9.onrender.com/api-docs/
-
 
 ## 🛠️ Features.
 
